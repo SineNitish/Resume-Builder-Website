@@ -3,7 +3,8 @@ Resume Builder Website using HTML, CSS and Java Script.
 <br>
 <h1> Home Page </h1>
 <br>
-![Resume Builder Part 1](https://github.com/SineNitish/Resume-Builder-Website/assets/77968544/c9f3bc8b-bc89-43b3-a77d-db107723ef61)
+![Resume Builder Part 1](https://github.com/SineNitish/Resume-Builder-Website/assets/77968544/5edfad36-1be2-4726-ba90-fc305948be9c)
+
 <br>
 <h1> Before Enterning Data </h1>
 <br>
